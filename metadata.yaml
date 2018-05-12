@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33334'
     url: http://www.gutenberg.org/2009/agents/33334
 description: v. 1. Origines, dialects. -- v. 2. Phonesis, etymoloyg, syntax, prosody.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34595#The-English-Language
 gutenberg_issued: '2010-12-07'
 gutenberg_type: Text
 identifiers:
